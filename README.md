@@ -1,2 +1,2 @@
-# FastCamplus Project
-## Slang_Detector
+# FastCampus Project
+## Slang Detector
